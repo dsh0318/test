@@ -285,7 +285,7 @@ html, body {
 }
 
 .pageFir p:nth-child(4) {
-    z-index: 5;
+    z-index: 6;
     bottom: 5rem;
     left: 1.8rem;
 }
@@ -299,7 +299,7 @@ html, body {
 }
 
 .pageFir p:nth-child(5) {
-    z-index: 5;
+    z-index: 7;
     bottom: 4.5rem;
     left: 2rem;
     color: #fff;
@@ -313,7 +313,7 @@ html, body {
 }
 
 .pageFir p:nth-child(6) {
-    z-index: 5;
+    z-index: 8;
     bottom: 6.5rem;
     left: .3rem;
 }
@@ -327,7 +327,7 @@ html, body {
 }
 
 .pageFir p:nth-child(7) {
-    z-index: 5;
+    z-index: 9;
     bottom: 1rem;
     color: #fff;
     font-size: .36rem;
