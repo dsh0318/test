@@ -258,7 +258,7 @@ html, body {
 
 .pageFir p:nth-child(2) {
     z-index: 4;
-    top: 5.5rem;
+    top: 6.5rem;
     opacity: 1;
     left: 1.5rem;
 }
@@ -273,7 +273,7 @@ html, body {
 
 .pageFir p:nth-child(3) {
     z-index: 5;
-    bottom: 6rem;
+    bottom: 4rem;
     left: 1.6rem;
     color: #fff;
     font-size: .36rem;
@@ -381,7 +381,7 @@ html, body {
     animation: fadeInRight 1s .9s both;
 }
 .pageTwo img:nth-child(4) {
-    top: 3.6rem;
+    top: 3.5rem;
     right: 1rem;
     width: 4.74rem;
     height: 1.2rem;
@@ -392,7 +392,7 @@ html, body {
     animation: fadeInLeft 1s .9s both;
 }
 .pageTwo img:nth-child(5) {
-    top: 4.7rem;
+    top: 4.5rem;
     left: 1rem;
     width: 4.74rem;
     height: 1.2rem;
@@ -403,7 +403,7 @@ html, body {
     animation: fadeInRight 1s .9s both;
 }
 .pageTwo img:nth-child(6) {
-    top: 5.8rem;
+    top: 5.5rem;
     right: 1rem;
     width: 4.74rem;
     height: 1.2rem;
@@ -414,7 +414,7 @@ html, body {
     animation: fadeInLeft 1s .9s both;
 }
 .pageTwo img:nth-child(7) {
-    top: 6.9rem;
+    top: 6.5rem;
     left: 1rem;
     width: 4.74rem;
     height: 1.2rem;
@@ -427,22 +427,22 @@ html, body {
 }
 
 .pageTwo p span:nth-child(3) {
-    top: 4.1rem;
+    top: 3.9rem;
     left: 1.6rem;
     opacity: 0;
 }
 .pageTwo p span:nth-child(5) {
-    top: 6.3rem;
+    top: 6rem;
     left: 1.6rem;
     opacity: 0;
 }
 .pageTwo p span:nth-child(7) {
-    top: 7.3rem;
+    top: 7rem;
     left: 1.6rem;
     opacity: 0;
 }
 .pageTwo p span:nth-child(9) {
-    top: 5.2rem;
+    top: 5rem;
     left: 1.6rem;
     opacity: 0;
 }
@@ -458,7 +458,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(4) {
-    top: 4.0rem;
+    top: 3.9rem;
     left: 3rem;
     opacity: 0;
 }
@@ -468,7 +468,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(6) {
-    top: 6.2rem;
+    top: 6rem;
     left: 2.6rem;
     opacity: 0;
 }
@@ -478,7 +478,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(8) {
-    top: 7.2rem;
+    top: 6.9rem;
     left: 2.6rem;
     opacity: 0;
 }
@@ -488,7 +488,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(10) {
-    top: 5.1rem;
+    top: 4.9rem;
     left: 3.0rem;
     opacity: 0;
 }
