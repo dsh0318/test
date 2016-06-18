@@ -258,7 +258,7 @@ html, body {
 
 .pageFir p:nth-child(2) {
     z-index: 4;
-    top: 6.5rem;
+    top: 5.5rem;
     opacity: 1;
     left: 1.5rem;
 }
@@ -273,7 +273,7 @@ html, body {
 
 .pageFir p:nth-child(3) {
     z-index: 5;
-    bottom: 4rem;
+    bottom: 6rem;
     left: 1.6rem;
     color: #fff;
     font-size: .36rem;
@@ -286,7 +286,7 @@ html, body {
 
 .pageFir p:nth-child(4) {
     z-index: 6;
-    bottom: 5rem;
+    bottom: 4rem;
     left: 1.8rem;
 }
 .pageFir p:nth-child(4) img{
@@ -314,7 +314,7 @@ html, body {
 
 .pageFir p:nth-child(6) {
     z-index: 8;
-    bottom: 6.5rem;
+    bottom: 5.5rem;
     left: .3rem;
 }
 .pageFir p:nth-child(6) img{
@@ -369,7 +369,7 @@ html, body {
     top: 2.5rem;
     left: 1rem;
     width: 4.74rem;
-    height: 1.2rem;
+    height: 1rem;
 }
 #page2 img:nth-child(3) {
     -webkit-animation: fadeInLeft 1s .9s both;
@@ -381,10 +381,10 @@ html, body {
     animation: fadeInRight 1s .9s both;
 }
 .pageTwo img:nth-child(4) {
-    top: 3.5rem;
+    top: 3.3rem;
     right: 1rem;
     width: 4.74rem;
-    height: 1.2rem;
+    height: 1rem;
 }
 
 #page2 img:nth-child(5) {
@@ -392,10 +392,10 @@ html, body {
     animation: fadeInLeft 1s .9s both;
 }
 .pageTwo img:nth-child(5) {
-    top: 4.5rem;
+    top: 4.2rem;
     left: 1rem;
     width: 4.74rem;
-    height: 1.2rem;
+    height: 1rem;
 }
 
 #page2 img:nth-child(6) {
@@ -403,10 +403,10 @@ html, body {
     animation: fadeInRight 1s .9s both;
 }
 .pageTwo img:nth-child(6) {
-    top: 5.5rem;
+    top: 5rem;
     right: 1rem;
     width: 4.74rem;
-    height: 1.2rem;
+    height: 1rem;
 }
 
 #page2 img:nth-child(7) {
@@ -414,10 +414,10 @@ html, body {
     animation: fadeInLeft 1s .9s both;
 }
 .pageTwo img:nth-child(7) {
-    top: 6.5rem;
+    top: 5.9rem;
     left: 1rem;
     width: 4.74rem;
-    height: 1.2rem;
+    height: 1rem;
 }
 
 .pageTwo p span:nth-child(1) {
@@ -427,28 +427,28 @@ html, body {
 }
 
 .pageTwo p span:nth-child(3) {
-    top: 3.9rem;
+    top: 3.7rem;
     left: 1.6rem;
     opacity: 0;
 }
 .pageTwo p span:nth-child(5) {
-    top: 6rem;
+    top: 5.4rem;
     left: 1.6rem;
     opacity: 0;
 }
 .pageTwo p span:nth-child(7) {
-    top: 7rem;
+    top: 6.2rem;
     left: 1.6rem;
     opacity: 0;
 }
 .pageTwo p span:nth-child(9) {
-    top: 5rem;
+    top: 4.5rem;
     left: 1.6rem;
     opacity: 0;
 }
 
 .pageTwo p strong:nth-child(2) {
-    top: 2.9rem;
+    top: 2.8rem;
     left: 3rem;
     opacity: 0;
 }
@@ -458,7 +458,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(4) {
-    top: 3.9rem;
+    top: 3.6rem;
     left: 3rem;
     opacity: 0;
 }
@@ -468,7 +468,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(6) {
-    top: 6rem;
+    top: 5.3rem;
     left: 2.6rem;
     opacity: 0;
 }
@@ -478,7 +478,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(8) {
-    top: 6.9rem;
+    top: 6.1rem;
     left: 2.6rem;
     opacity: 0;
 }
@@ -488,7 +488,7 @@ html, body {
 }
 
 .pageTwo p strong:nth-child(10) {
-    top: 4.9rem;
+    top: 4.4rem;
     left: 3.0rem;
     opacity: 0;
 }
@@ -671,8 +671,8 @@ html, body {
 }
 
 #page4 img:nth-child(3) {
-    -webkit-animation: rotateIn 1s .6s 1 both;
-    animation: rotateIn 1s .6s 1 both;
+    -webkit-animation: zoomIn 1s .6s 1 both;
+    animation: zoomIn 1s .6s 1 both;
 }
 
 .pageFour p{
